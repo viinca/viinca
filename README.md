@@ -1,16 +1,22 @@
-## Hi there 👋
+# Olá! Eu sou Vinícius Cauã 👋
 
-<!--
-**viinca/viinca** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Estudante de Análise e Desenvolvimento de Sistemas  
+💻 Atualmente estudando desenvolvimento de software  
+📚 Aprendendo Java, JavaScript, HTML e CSS  
+🚀 Construindo projetos e buscando minha primeira oportunidade em tecnologia
 
-Here are some ideas to get you started:
+## 🛠️ Tecnologias
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Java
+- JavaScript
+- HTML
+- CSS
+- Git
+- GitHub
+
+## 📚 Atualmente estudando
+
+- Programação Orientada a Objetos
+- Desenvolvimento Web
+- Lógica de Programação
+- Git e GitHub
